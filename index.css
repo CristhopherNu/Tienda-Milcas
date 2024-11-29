@@ -134,7 +134,7 @@
 
 /* comparison.css */
 :root {
-    --primary-color: #111827;      /* Color primario */
+    --primary-color: #570df8;      /* Color primario */
     --primary-content: #ffffff;     /* Color del texto sobre primario */
     --secondary-bg: #f2f2f2;       /* Color de fondo secundario */
     --comparison-width: 100%;       /* Ancho del componente */
@@ -277,7 +277,7 @@
   
   .btn {
     padding: 8px 16px;
-    background: #111827;
+    background: #570df8;
     color: white;
     border: none;
     border-radius: 4px;
@@ -341,7 +341,7 @@
 
 /* Cada paso */
 .step {
-    background-color: #111827;
+    background-color: #570df8;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 2rem;
